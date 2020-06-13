@@ -1,0 +1,9 @@
+node_modules
+.next
+.temp
+dist
+build
+lib
+plugins
+web
+package-lock.json
